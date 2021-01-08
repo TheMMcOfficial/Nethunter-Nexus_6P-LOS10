@@ -7,6 +7,7 @@ A Nexus 6P, all the files to install/flash, a computer with the ADB tool install
 For the Nexmon Tools and the Lineage OS version you can find them here: https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-devices/-/issues/236
 
 Magisk APK: https://magisk.me/apk/
+
 Magisk ZIP: https://magisk.me/zip/
 
 Nethunter: https://www.kali.org/kali-linux-nethunter/
