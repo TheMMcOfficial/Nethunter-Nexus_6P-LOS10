@@ -87,10 +87,14 @@ adb shell "su -c 'mount -o rw,remount / && cp /sdcard/nexutil /system/xbin/'"
 adb shell "su -c 'chmod +x /system/xbin/nexutil && chmod +x /system/lib64/kalilibnexmon.so && chmod +x /system/lib64/libnexmon.so'"
 ```
 
-For the support of multiple wifi card go to magisk and install nethunter-magisk-wifi-firmware by rithvikvibhu. You can see the list of card supported here: https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
+17- For the support of multiple wifi card go to magisk and install nethunter-magisk-wifi-firmware by rithvikvibhu. You can see the list of card supported here: https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
 
-Sources:
+
+## Sources:
 https://forum.xda-developers.com/nexus-6p/development/rom-kali-nethunter-huawei-nexus-6p-oreo-t4079087/
+
 https://forum.xda-developers.com/nexus-6p/orig-development/rom-lineageos-17-0-nexus-6p-angler-t4012099
+
 https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-devices/-/issues/236
+
 https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-devices/-/issues/242
