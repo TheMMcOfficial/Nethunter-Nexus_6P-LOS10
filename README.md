@@ -29,8 +29,7 @@ Nethunter: https://www.kali.org/kali-linux-nethunter/
 5- reboot in the bootloader
 ```adb reboot bootloader```
 
-6- flash radio (radio-angler-angler-03.88.img), vendor (vendor-angler-opm7.181205.001.img), bootloader (bootloader-angler-angler-03.84.img) (fastboot flash radio radio.img )
-
+6- flash radio (radio-angler-angler-03.88.img), vendor (vendor-angler-opm7.181205.001.img), bootloader (bootloader-angler-angler-03.84.img)
 ```
 fastboot flash radio radio-angler-angler-03.88.img
 fastboot flash vendor vendor-angler-opm7.181205.001.img 
