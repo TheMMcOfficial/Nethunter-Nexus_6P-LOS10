@@ -5,9 +5,13 @@ Instructions to get Nethunter on a Nexus 6P Using Android 10 (LineageOS).
 A Nexus 6P, all the files to install/flash, a computer with the ADB tool installed on it. 
 
 For the Nexmon Tools and the Lineage OS version you can find them here: https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-devices/-/issues/236
+
 Magisk APK: https://magisk.me/apk/
 Magisk ZIP: https://magisk.me/zip/
+
 Nethunter: https://www.kali.org/kali-linux-nethunter/
+
+
 
 ## How to install Nethunter and LineageOS
 
