@@ -1,5 +1,5 @@
-# Nethunter-Nexus_6P-LOS10
-Instructions to get Nethunter on a Nexus 6P Using Android 10 (LineageOS).
+# Nethunter on a Nexus 6P using LOS10
+Instructions to get Nethunter on a Nexus 6P Using Android 10 (LineageOS). You should also be able to use the internal wifi card in monitor mode and maybe packages injection using Nexmon. 
 
 ## Prerequisite:
 A Nexus 6P, all the files to install/flash, a computer with the ADB tool installed on it. 
